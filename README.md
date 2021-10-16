@@ -7,3 +7,4 @@ This where i save all codes i wrote in SoloLearn under the name of
 # Easy
 Problem | Description
 ---- | ----
+[Popsicles](/popsicles/readme.md) | blah blah blah
