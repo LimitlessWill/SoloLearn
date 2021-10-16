@@ -7,4 +7,4 @@ This where i save all codes i wrote in SoloLearn under the name of
 # Easy
 Problem | Description
 ---- | ----
-[Popsicles](/Popsicles/README.md) | blah blah blah
+[Popsicles](/Popsicles/README.md) | You can give the popsicles to the brothers and sisters because they would each get the same amount
