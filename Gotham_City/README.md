@@ -16,5 +16,5 @@ A string that says 'I got this!', 'Help me Batman', or 'Good Luck out there!' de
 ## Sample Output 
 `Help me Batman`
 
-# Explanation: 
+# Explanation 
 If there are 7 criminals, you and Batman should handle this situation together.
