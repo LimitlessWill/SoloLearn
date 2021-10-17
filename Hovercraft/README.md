@@ -4,17 +4,17 @@ You run a hovercraft factory. Your factory makes ten hovercrafts in a month. Giv
 # Task 
 Determine whether or not you made a profit based on how many of the ten hovercrafts you were able to sell that month.
  
-## Input Format: 
+## Input Format 
 An integer that represents the sales that you made that month.
 
-## Output Format: 
+## Output Format 
 A string that says 'Profit', 'Loss', or 'Broke Even'.
 
-## Sample Input: 
+## Sample Input 
 `5`
 
-## Sample Output: 
+## Sample Output 
 `Loss`
 
-# Explanation: 
+# Explanation 
 If you only sold 5 hovercrafts, you spent 21,000,000 to operate but only made 15,000,000.
