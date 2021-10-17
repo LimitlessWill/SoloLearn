@@ -22,3 +22,4 @@ Code Coach | Solution | Description
 Code Coach | Solution | Description
 -- | -- | --
 [**Pig Latin**](/Pig_Latin) | [C](/Pig_Latin/Pig_Latin.c) <br/><br/> [C++](/Pig_Latin/Pig_Latin.cpp) <br/><br/> [C#](/Pig_Latin/Pig_Latin.cs) <br/><br/> [Java](/Pig_Latin/Pig_Latin.java) <br/><br/> [Python](/Pig_Latin/Pig_Latin.py) | take the first letter of each word and put it on the end, then you add 'ay' to the end of that. ("road" = "oadray")
+[**Deja Vu**](/Deja_Vu) | [C](/Deja_Vu/Deja_Vu.c) <br/><br/> [C++](/Deja_Vu/Deja_Vu.cpp) <br/><br/> [C#](/Deja_Vu/Deja_Vu.cs) <br/><br/> [Java](/Deja_Vu/Deja_Vu.java) <br/><br/> [Python](/Deja_Vu/Deja_Vu.py) | You want to know if you ever typed the same letter twice, or if they are all unique letters 
