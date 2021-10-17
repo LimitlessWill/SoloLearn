@@ -17,3 +17,8 @@ Code Coach | Solution | Description
 [**Hovercraft**](/Hovercraft) | [C](/Hovercraft/Hovercraft.c) <br/><br/> [C++](/Hovercraft/Hovercraft.cpp) <br/><br/> [C#](/Hovercraft/Hovercraft.cs) <br/><br/> [Java](/Hovercraft/Hovercraft.java) <br/><br/> [Python](/Hovercraft/Hovercraft.py) | Determine whether or not you made a profit
 [**Jungle Camping**](/Jungle_Camping) | [C](/Jungle_Camping/Jungle_Camping.c) <br/><br/> [C++](/Jungle_Camping/Jungle_Camping.cpp) <br/><br/> [C#](/Jungle_Camping/Jungle_Camping.cs) <br/><br/> [Java](/Jungle_Camping/Jungle_Camping.java) <br/><br/> [Python](/Jungle_Camping/Jungle_Camping.py) | Based on the noise they make, determine which animals they are
 [**Extra-Terrestrials**](/Extra-Terrestrials) | [C](/Extra-Terrestrials/Extra-Terrestrials.c) <br/><br/> [C++](/Extra-Terrestrials/Extra-Terrestrials.cpp) <br/><br/> [C#](/Extra-Terrestrials/Extra-Terrestrials.cs) <br/><br/> [Java](/Extra-Terrestrials/Extra-Terrestrials.java) <br/><br/> [Python](/Extra-Terrestrials/Extra-Terrestrials.py) | If you flip howdy backwards you get ydwoh
+
+# Medium
+Code Coach | Solution | Description
+-- | -- | --
+[**Pig Latin**](/Pig_Latin) | [C](/Pig_Latin/Pig_Latin.c) <br/><br/> [C++](/Pig_Latin/Pig_Latin.cpp) <br/><br/> [C#](/Pig_Latin/Pig_Latin.cs) <br/><br/> [Java](/Pig_Latin/Pig_Latin.java) <br/><br/> [Python](/Pig_Latin/Pig_Latin.py) | take the first letter of each word and put it on the end, then you add 'ay' to the end of that. ("road" = "oadray")
