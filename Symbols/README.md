@@ -11,7 +11,9 @@ A string with random symbols.
 A string of the text with all the symbols removed.
 
 ## Sample Input 
-`#l$e%ts go @an#d@@ g***et #l#unch$$$`
+```
+#l$e%ts go @an#d@@ g***et #l#unch$$$
+```
 
 ## Sample Output 
 ```
