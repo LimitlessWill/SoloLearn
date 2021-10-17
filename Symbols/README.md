@@ -14,7 +14,9 @@ A string of the text with all the symbols removed.
 `#l$e%ts go @an#d@@ g***et #l#unch$$$`
 
 ## Sample Output 
-`lets go and get lunch`
+```
+lets go and get lunch
+```
 
 # Explanation
 If you take out every symbol and leave only the letters and numbers, your text says `lets go and get lunch`
