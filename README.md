@@ -5,7 +5,7 @@ This where i save all codes i wrote in SoloLearn under the name of
 
 ## Code Coach
 <details> 
-<summary><b id="ez">Easy</b></summary>
+<summary><b>Easy</b></summary>
 
  Code Coach | Solution | Description
  -- | -- | --
@@ -21,7 +21,7 @@ This where i save all codes i wrote in SoloLearn under the name of
 [**Jungle Camping**](/Jungle_Camping) | [C](/Jungle_Camping/Jungle_Camping.c) <br/><br/> [C++](/Jungle_Camping/Jungle_Camping.cpp) <br/><br/> [C#](/Jungle_Camping/Jungle_Camping.cs) <br/><br/> [Java](/Jungle_Camping/Jungle_Camping.java) <br/><br/> [Python](/Jungle_Camping/Jungle_Camping.py) | Based on the noise they make, determine which animals they are
 [**Extra-Terrestrials**](/Extra-Terrestrials) | [C](/Extra-Terrestrials/Extra-Terrestrials.c) <br/><br/> [C++](/Extra-Terrestrials/Extra-Terrestrials.cpp) <br/><br/> [C#](/Extra-Terrestrials/Extra-Terrestrials.cs) <br/><br/> [Java](/Extra-Terrestrials/Extra-Terrestrials.java) <br/><br/> [Python](/Extra-Terrestrials/Extra-Terrestrials.py) | If you flip howdy backwards you get ydwoh
 
-[#Go Up](#ez)
+[**Go up**](#Code-Coach)
 </details>
 
 
@@ -42,7 +42,7 @@ This where i save all codes i wrote in SoloLearn under the name of
 [**template**](/tmp) | [C](/tmp/tmp.c) <br/><br/> [C++](/tmp/tmp.cpp) <br/><br/> [C#](/tmp/tmp.cs) <br/><br/> [Java](/tmp/tmp.java) <br/><br/> [Python](/tmp/tmp.py) | Replace all templates
 [**template**](/tmp) | [C](/tmp/tmp.c) <br/><br/> [C++](/tmp/tmp.cpp) <br/><br/> [C#](/tmp/tmp.cs) <br/><br/> [Java](/tmp/tmp.java) <br/><br/> [Python](/tmp/tmp.py) | Replace all templates
 
-[#Go Up](#Code-Coach)
+[**Go up**](#Code-Coach)
 </details>
 
 
@@ -55,7 +55,7 @@ This where i save all codes i wrote in SoloLearn under the name of
 [**template**](/tmp) | [C](/tmp/tmp.c) <br/><br/> [C++](/tmp/tmp.cpp) <br/><br/> [C#](/tmp/tmp.cs) <br/><br/> [Java](/tmp/tmp.java) <br/><br/> [Python](/tmp/tmp.py) | Replace all templates
 [**template**](/tmp) | [C](/tmp/tmp.c) <br/><br/> [C++](/tmp/tmp.cpp) <br/><br/> [C#](/tmp/tmp.cs) <br/><br/> [Java](/tmp/tmp.java) <br/><br/> [Python](/tmp/tmp.py) | Replace all templates
 
-[#Go Up](#Code-Coach)
+[**Go up**](#Code-Coach)
 </details>
 
 
