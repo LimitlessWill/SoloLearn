@@ -39,6 +39,7 @@ This where i save all codes i wrote in SoloLearn under the name of
 [**template**](/tmp) | [C](/tmp/tmp.c) <br/><br/> [C++](/tmp/tmp.cpp) <br/><br/> [C#](/tmp/tmp.cs) <br/><br/> [Java](/tmp/tmp.java) <br/><br/> [Python](/tmp/tmp.py) | Replace all templates
 [**template**](/tmp) | [C](/tmp/tmp.c) <br/><br/> [C++](/tmp/tmp.cpp) <br/><br/> [C#](/tmp/tmp.cs) <br/><br/> [Java](/tmp/tmp.java) <br/><br/> [Python](/tmp/tmp.py) | Replace all templates
 [**template**](/tmp) | [C](/tmp/tmp.c) <br/><br/> [C++](/tmp/tmp.cpp) <br/><br/> [C#](/tmp/tmp.cs) <br/><br/> [Java](/tmp/tmp.java) <br/><br/> [Python](/tmp/tmp.py) | Replace all templates
+|[Go Up](#Code-Coach)|
 </details>
 
 
