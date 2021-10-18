@@ -5,7 +5,7 @@ This where i save all codes i wrote in SoloLearn under the name of
 
 ## Code Coach
 <details> 
-<summary><b>Easy</b></summary>
+<summary><h2>Easy</h2></summary>
 
  Code Coach | Solution | Description
  -- | -- | --
