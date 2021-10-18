@@ -1,5 +1,5 @@
 # SoloLearn
-This where i save all codes i wrote in SoloLearn under the name of
+This is where i save all codes i wrote in SoloLearn under the name of
 
 ## [<p dir="rtl" align="center">وائل عبدالحق</p>](https://www.sololearn.com/Profile/7286114/)
 
@@ -51,7 +51,7 @@ This where i save all codes i wrote in SoloLearn under the name of
 
  Code Coach | Solution | Description
  -- | -- | --
-[**template**](/tmp) | [C](/tmp/tmp.c) <br/><br/> [C++](/tmp/tmp.cpp) <br/><br/> [C#](/tmp/tmp.cs) <br/><br/> [Java](/tmp/tmp.java) <br/><br/> [Python](/tmp/tmp.py) | Replace all templates
+[**New Driver's License**](/NDL) | [C](/NDL/NDL.c) <br/><br/> [C++](/NDL/NDL.cpp) <br/><br/> [C#](/NDL/NDL.cs) <br/><br/> [Java](/NDL/NDL.java) <br/><br/> [Python](/NDL/NDL.py) | How many minutes that it will take to get new license
 [**template**](/tmp) | [C](/tmp/tmp.c) <br/><br/> [C++](/tmp/tmp.cpp) <br/><br/> [C#](/tmp/tmp.cs) <br/><br/> [Java](/tmp/tmp.java) <br/><br/> [Python](/tmp/tmp.py) | Replace all templates
 [**template**](/tmp) | [C](/tmp/tmp.c) <br/><br/> [C++](/tmp/tmp.cpp) <br/><br/> [C#](/tmp/tmp.cs) <br/><br/> [Java](/tmp/tmp.java) <br/><br/> [Python](/tmp/tmp.py) | Replace all templates
 
