@@ -40,7 +40,7 @@ This where i save all codes i wrote in SoloLearn under the name of
 [**Military Time**](/Military_Time) | [C](/Military_Time/Military_Time.c) <br/><br/> [C++](/Military_Time/Military_Time.cpp) <br/><br/> [C#](/Military_Time/Military_Time.cs) <br/><br/> [Java](/Military_Time/Military_Time.java) <br/><br/> [Python](/Military_Time/Military_Time.py) | Convert from a 12 hour clock to a 24 hour clock
 [**Average Word Length**](/AWL) | [C](/AWL/AWL.c) <br/><br/> [C++](/AWL/AWL.cpp) <br/><br/> [C#](/AWL/AWL.cs) <br/><br/> [Java](/AWL/AWL.java) <br/><br/> [Python](/AWL/AWL.py) | Find out the average length of words
 [**YouTube Link Finder**](/YLF) | [C](/YLF/YLF.c) <br/><br/> [C++](/YLF/YLF.cpp) <br/><br/> [C#](/YLF/YLF.cs) <br/><br/> [Java](/YLF/YLF.java) <br/><br/> [Python](/YLF/YLF.py) | Keep the video ID (the combination of letters and numbers at the end of the link)
-[**template**](/tmp) | [C](/tmp/tmp.c) <br/><br/> [C++](/tmp/tmp.cpp) <br/><br/> [C#](/tmp/tmp.cs) <br/><br/> [Java](/tmp/tmp.java) <br/><br/> [Python](/tmp/tmp.py) | Replace all templates
+[**Convert US date to EU date**](/ES) | [C](/ES/ES.c) <br/><br/> [C++](/ES/ES.cpp) <br/><br/> [C#](/ES/ES.cs) <br/><br/> [Java](/ES/ES.java) <br/><br/> [Python](/ES/ES.py) | Convert all your dates to DD/MM/YYYY
 
 [**Go up**](#Code-Coach)
 </details>
