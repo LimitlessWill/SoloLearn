@@ -23,7 +23,6 @@ An integer that represents the sum of only the even numbers in the list.
 7
 8
 9
-
 ```
 
 ## Sample Output
