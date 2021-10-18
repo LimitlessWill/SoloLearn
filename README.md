@@ -4,7 +4,7 @@ This where i save all codes i wrote in SoloLearn under the name of
 ## [<p dir="rtl" align="center">وائل عبدالحق</p>](https://www.sololearn.com/Profile/7286114/)
 
 - ## Code Coach
-  - <details> 
+ - <details> 
     <summary><b>Easy</b></summary>
 
     Code Coach | Solution | Description
@@ -23,7 +23,7 @@ This where i save all codes i wrote in SoloLearn under the name of
     </details>
 
 
-  - <details>
+ - <details>
     <summary><b>Medium</b></summary>
 
     Code Coach | Solution | Description
@@ -42,7 +42,7 @@ This where i save all codes i wrote in SoloLearn under the name of
     </details>
 
 
-  - <details>
+ - <details>
     <summary><b>Hard</b></summary>
 
     Code Coach | Solution | Description
