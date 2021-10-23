@@ -2,7 +2,9 @@
 <img align="left" width="40" height="40" src="https://www.sololearn.com/Images/favicon.ico" alt="SoloLearn icon">
 SoloLearn
 </h1>
-This is where i save all codes i wrote in SoloLearn under the name of
+
+
+This is where I save all the codes I wrote in **SoloLearn** under the name of
 
 ## [<p dir="rtl" align="center">وائل عبدالحق</p>](https://www.sololearn.com/Profile/7286114/)
 
