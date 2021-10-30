@@ -63,4 +63,7 @@ This is where I save all the codes I wrote in **SoloLearn** under the name of
 [**Go up**](#Code-Coach)
 </details>
 
+<br/>
 
+## Code Bits
+* [**Julius Caesar Cipher**](/JCC)
