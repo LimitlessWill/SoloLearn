@@ -66,4 +66,4 @@ This is where I save all the codes I wrote in **SoloLearn** under the name of
 <br/>
 
 ## Code Bits
-* [**Julius Caesar Cipher**](/JCC)
+* [x] [**Julius Caesar Cipher**](/JCC) 
