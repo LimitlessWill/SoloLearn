@@ -11,4 +11,7 @@ It is a type of **substitution cipher** in which each letter in the plaintext is
 <br/><br/>
 For example, with a left shift of 3, D would be replaced by A, E would become B, and so on.
 <br/><br/>
+As with all single-alphabet substitution ciphers, the Caesar cipher is easily broken and in modern practice offers essentially no communications security.
+<br/><br/>
 The method is named after Julius Caesar, who used it in his private correspondence.
+
