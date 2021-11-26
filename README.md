@@ -69,4 +69,4 @@ This is where I save all the codes I wrote in **SoloLearn** under the name of
 
 ## Code Bits
 * [x] [**Julius Caesar Cipher**](/JCC) 
-* [x] [**Socket Networking**](/socket) 
+* [x] [**Networking**](/socket) 
