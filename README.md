@@ -4,7 +4,7 @@ SoloLearn
 </h1>
 
 
-This is where I save all the codes I wrote in **SoloLearn** under the name of
+This is where I save some codes I wrote in **SoloLearn** under the name of
 
 ## [<p dir="rtl" align="center">وائل عبدالحق</p>](https://www.sololearn.com/Profile/7286114/)
 
