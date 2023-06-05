@@ -97,6 +97,7 @@ This is where I save some codes I wrote in **SoloLearn** under the name of
 * [**SQL**](https://www.sololearn.com/certificates/course/en/7286114/1060/landscape/png)
 * [**SQL Intermediate**](https://api2.sololearn.com/v2/certificates/CC-KWN28OOZ/image/png)
 * [**JavaScript**](https://www.sololearn.com/certificates/course/en/7286114/1024/landscape/png)
+ * [**JavaScript Intermediate**](https://api2.sololearn.com/v2/certificates/CC-B3ANXCVG/image/png)
 * [**HTML**](https://www.sololearn.com/Certificate/1014-7286114/pdf/)
 * [**Tech For Everyone**](https://api2.sololearn.com/v2/certificates/CC-JSGRIQ6S/image/png)
 </details>
