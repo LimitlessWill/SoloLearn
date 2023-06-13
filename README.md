@@ -83,6 +83,7 @@ This is where I save some codes I wrote in **SoloLearn** under the name of
 * [**C++**](https://www.sololearn.com/certificates/course/en/7286114/1051/landscape/png)
 * [**C++ Intermediate**](https://api2.sololearn.com/v2/certificates/CC-MNJUMOIJ/image/png)
 * [**C#**](https://www.sololearn.com/certificates/course/en/7286114/1080/landscape/png)
+* [**C# Intermediate**](https://api2.sololearn.com/v2/certificates/CC-93WMO5KI/image/png)
 * [**Java**](https://www.sololearn.com/certificates/course/en/7286114/1068/landscape/png)
 * [**Java Intermediate**](https://api2.sololearn.com/v2/certificates/CC-Z1XTKIMP/image/png)
 * [**Kotlin**](https://www.sololearn.com/certificates/course/en/7286114/1160/landscape/png)
