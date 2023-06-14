@@ -92,6 +92,7 @@ This is where I save some codes I wrote in **SoloLearn** under the name of
 * [**Intermediate Python**](https://www.sololearn.com/certificates/course/en/7286114/1158/landscape/png)
 * [**Python for beginners**](https://www.sololearn.com/certificates/course/en/7286114/1157/landscape/png)
 * [**Web development fundamentals**](https://www.sololearn.com/Certificate/1141-7286114/pdf/)
+* [**Introduction to CSS**](https://api2.sololearn.com/v2/certificates/CC-Y4ARKJQT/image/png)
 * [**Web development**](https://api2.sololearn.com/v2/certificates/CC-Y2GKK7P2/image/png)
 * [**Responsive web design**](https://www.sololearn.com/certificates/course/en/7286114/1162/landscape/png)
 * [**Coding for marketers**](https://www.sololearn.com/Certificate/1165-7286114/pdf/)
