@@ -100,6 +100,7 @@ This is where I save some codes I wrote in **SoloLearn** under the name of
 * [**PHP**](https://www.sololearn.com/Certificate/1059-7286114/pdf/)
 * [**SQL**](https://www.sololearn.com/certificates/course/en/7286114/1060/landscape/png)
 * [**SQL Intermediate**](https://api2.sololearn.com/v2/certificates/CC-KWN28OOZ/image/png)
+* [**Data Programming**](https://api2.sololearn.com/v2/certificates/CC-HED3DMCM/image/png)
 * [**JavaScript**](https://www.sololearn.com/certificates/course/en/7286114/1024/landscape/png)
  * [**JavaScript Intermediate**](https://api2.sololearn.com/v2/certificates/CC-B3ANXCVG/image/png)
 * [**jQuery**](https://www.sololearn.com/certificates/course/en/7286114/1082/landscape/png)
