@@ -78,7 +78,7 @@ This is where I save some codes I wrote in **SoloLearn** under the name of
 <summary> <h5> Certifications </h5> </summary>
 
 
-* [**C**](https://www.sololearn.com/Certificate/1089-7286114/pdf/)
+* [**C**](https://www.sololearn.com/certificates/CC-6IDMD5GX)
 * [**C Intermediate**](https://api2.sololearn.com/v2/certificates/CC-KXDWNWPX/image/png)
 * [**C++**](https://www.sololearn.com/certificates/course/en/7286114/1051/landscape/png)
 * [**C++ Intermediate**](https://api2.sololearn.com/v2/certificates/CC-MNJUMOIJ/image/png)
